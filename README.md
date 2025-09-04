@@ -1,4 +1,4 @@
-## Linear Regression Tricks and Gradient Descent
+# Linear Regression Tricks and Gradient Descent
 
 This project demonstrates different approaches to linear regression using custom update "tricks" (simple, square, absolute) and compares them with gradient descent optimization. It also includes visualization and error evaluation with RMSE.
 
@@ -46,9 +46,13 @@ Results are visualized with Matplotlib.
 #### Console output:
 
 Simple Trick: y = 63.77 x + 99.33 | RMSE = 10.23
+
 Square Trick: y = 63.95 x + 92.11 | RMSE = 9.87
+
 Absolute Trick: y = 64.10 x + 95.54 | RMSE = 11.02
+
 Final Model: y = 64.00 x + 91.50
+
 RMSE (square trick with gradient descent) = 8.75
 
 
